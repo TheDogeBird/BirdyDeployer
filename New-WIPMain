@@ -10,6 +10,7 @@ import os
 # Import the necessary packages for our curses menu
 import curses
 
+# Modified boilerplate menu
 class CursesMenu(object):
 
     INIT = {'type' : 'init'}
