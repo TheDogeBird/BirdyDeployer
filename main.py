@@ -328,7 +328,7 @@ def mainMenu():
 
     # Create an overly done garbage but beautifully simple menu
     menuTop="""
-      [C] [A] [R] [E] [B] [E] [A] [R]
+[B] [I] [R] [D] [Y] [D] [E] [P] [L] [O] [Y]
 *******************************************
 *""" + """ Application """ + AppName + """              *
 * """ + AppAuthor + """                 *
