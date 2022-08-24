@@ -133,7 +133,7 @@ def deploymentMenu():
 
     # Start Deployment menu top
     dmenuTop="""
-          [C] [A] [R] [E] [B] [E] [A] [R]
+    [B] [I] [R] [D] [Y] [D] [E] [P] [L] [O] [Y]
     *******************************************
     *""" + """ Application """ + AppName + """              *
     * """ + AppAuthor + """                 *
